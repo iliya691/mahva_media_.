@@ -61,6 +61,6 @@
     
     همه ی اینا با 
 
-< img src="![Uploading IMG_20240628_125319_461.png…]()" alt="mahva logo"/>
+<img src="![Uploading IMG_20240628_125319_461.png…]()"/>
 
     
